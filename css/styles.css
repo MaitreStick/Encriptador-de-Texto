@@ -298,6 +298,12 @@
     #copiar:active{
         transform: scale(.9);
     }
+
+    .footer{
+        height: 2em;
+        text-align: center;
+        font-weight: bold;
+    }
 }
 
 
